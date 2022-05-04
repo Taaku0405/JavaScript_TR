@@ -52,5 +52,5 @@ function winLose(user, js){
       winLoseStr = "あいこ";
     }
   }
-  return winLoseStr;
+
 }
